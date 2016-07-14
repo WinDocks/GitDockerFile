@@ -1,0 +1,6 @@
+{
+  "name": "Gitdockerfile",
+  "tagline": "DockerFile for TestGitClone and PowerShell script for automating setup of integrated .NET + SQL Server containers",
+  "body": "DockerFile for TestGitClone and PowerShell script for automating integrated .NET + SQL Server environments.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
