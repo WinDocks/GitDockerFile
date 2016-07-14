@@ -1,0 +1,3 @@
+FROM dotnet-4.5
+RUN RUN_AS_ADMIN_CMD /K ""C:\Program Files\Git\bin\git.exe" clone https://github.com/WinDocks/dotnetsample.git app-root\runtime\repo\dotnetsample"
+COPY web.config app-root\\runtime\\repo\\dotnetsample
